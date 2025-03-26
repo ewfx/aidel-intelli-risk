@@ -1,0 +1,100 @@
+{
+    "Transaction ID": "TXN001",
+    "Extracted Entity": "Acme Corp SovCo Capital Partners Payment",
+    "Entity Type": "corporation",
+    "Risk Score": 0.3,
+    "Supporting Evidence": [
+        "No public records found"
+    ],
+    "Confidence Score": 0.6,
+    "Reason": "No high-risk indicators found for Acme Corp SovCo Capital Partners Payment"
+},
+{
+    "Transaction ID": "TXN002",
+    "Extracted Entity": "Global Health Foundation Save",
+    "Entity Type": "non-profit",
+    "Risk Score": 0.3,
+    "Supporting Evidence": [
+        "No public records found"
+    ],
+    "Confidence Score": 0.6,
+    "Reason": "No high-risk indicators found for Global Health Foundation Save"
+},
+{
+    "Transaction ID": "TXN003",
+    "Extracted Entity": "XYZ Ltd ABC GmbH Purchase",
+    "Entity Type": "corporation",
+    "Risk Score": 0.3,
+    "Supporting Evidence": [
+        "No public records found"
+    ],
+    "Confidence Score": 0.6,
+    "Reason": "No high-risk indicators found for XYZ Ltd ABC GmbH Purchase"
+},
+{
+    "Transaction ID": "TXN004",
+    "Extracted Entity": "CCMI Environmental",
+    "Entity Type": "corporation",
+    "Risk Score": 0.3,
+    "Supporting Evidence": [
+        "No public records found"
+    ],
+    "Confidence Score": 0.6,
+    "Reason": "No high-risk indicators found for CCMI Environmental"
+},
+{
+    "Transaction ID": "TXN-2023-5A9B",
+    "Extracted Entity": "Quantum Holdings Ltd",
+    "Entity Type": "corporation",
+    "Risk Score": 0.3,
+    "Supporting Evidence": [
+        "No public records found"
+    ],
+    "Confidence Score": 0.6,
+    "Reason": "No high-risk indicators found for Quantum Holdings Ltd"
+},
+{
+    "Transaction ID": "TXN-2023-5A9B",
+    "Extracted Entity": "Global Horizons Consulting",
+    "Entity Type": "corporation",
+    "Risk Score": 0.3,
+    "Supporting Evidence": [
+        "No public records found"
+    ],
+    "Confidence Score": 0.6,
+    "Reason": "No high-risk indicators found for Global Horizons Consulting"
+},
+{
+    "Transaction ID": "TXN-2023-5A9B",
+    "Extracted Entity": "Ali Al-Mansoori",
+    "Entity Type": "financial intermediary",
+    "Risk Score": 0.9,
+    "Supporting Evidence": [
+        "Sanctions List",
+        "PEP List"
+    ],
+    "Confidence Score": 0.95,
+    "Reason": "Ali Al-Mansoori is on sanctions list. Ali Al-Mansoori is a Politically Exposed Person"
+},
+{
+    "Transaction ID": "TXN-2023-7C2D",
+    "Extracted Entity": "Quantum Holdings Ltd",
+    "Entity Type": "corporation",
+    "Risk Score": 0.3,
+    "Supporting Evidence": [
+        "No public records found"
+    ],
+    "Confidence Score": 0.6,
+    "Reason": "No high-risk indicators found for Quantum Holdings Ltd"
+},
+{
+    "Transaction ID": "TXN-2023-7C2D",
+    "Extracted Entity": "Viktor Petrov",
+    "Entity Type": "PEP",
+    "Risk Score": 0.9,
+    "Supporting Evidence": [
+        "Sanctions List"
+    ],
+    "Confidence Score": 0.95,
+    "Reason": "Viktor Petrov is on sanctions list"
+}
